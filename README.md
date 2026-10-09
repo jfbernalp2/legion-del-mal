@@ -76,6 +76,7 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 - **Teléfono:**
 - **Telegram:** @LegionDelMal
 - **Discord:** discord.gg/legiondelmal
+- **Linked In:** linkedin.com/company/legiondelmal
 
 ---
 
