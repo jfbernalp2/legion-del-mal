@@ -16,3 +16,8 @@
 ### Peliculas y cómics
 
 - Spiderman ha aparecido en numerosas películas y cómics, siendo uno de los personajes más populares de Marvel. Su historia de origen, su lucha contra el crimen y su vida personal han sido exploradas en profundidad, lo que lo convierte en un héroe complejo y querido por los fans.
+
+### Debiilidades
+
+- **Confianza excesiva:** A veces subestima a sus enemigos, lo que puede ser explotado.
+- **Protección de seres queridos:** Su amor por su familia y amigos puede ser utilizado en su contra, aunque esto es éticamente cuestionable y no siempre efectivo.
