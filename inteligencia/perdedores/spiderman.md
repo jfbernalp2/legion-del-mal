@@ -12,3 +12,7 @@
 
 - **Octopus** — Científico loco con tentáculos mecánicos, ha sido un aliado ocasional de Spiderman.
 - **Green Goblin** — Uno de los enemigos más peligrosos de Spiderman, conocido por su locura y su arsenal de armas avanzadas.
+
+### Peliculas y cómics
+
+- Spiderman ha aparecido en numerosas películas y cómics, siendo uno de los personajes más populares de Marvel. Su historia de origen, su lucha contra el crimen y su vida personal han sido exploradas en profundidad, lo que lo convierte en un héroe complejo y querido por los fans.
